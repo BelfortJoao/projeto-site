@@ -5,6 +5,9 @@
 body{
     background-color: rgb(221, 246, 253);
 }
+img.lado{
+float: right;
+}
 main{
     background-color: white;
     width: 500px;
